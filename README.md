@@ -19,8 +19,10 @@ devtools::install_github("jfisher-usgs/meditate")
 ```r
 library(meditations)
 library(meditate)
+
 meditations::meditations()
 
+meditate::Meditate()
 
 ```
 
