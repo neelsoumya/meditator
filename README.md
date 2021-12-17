@@ -26,6 +26,14 @@ meditate::Meditate()
 
 ```
 
+or
+
+```r
+
+R --no-save < meditator.R
+
+```
+
 ## Contact
 
 Marcus Aurelius
