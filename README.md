@@ -34,14 +34,32 @@ R --no-save < meditator.R
 
 ```
 
+or
+
+
+```r
+
+chmod 755 meditator.sh
+
+./meditator.sh
+
+```
+
 ## Acknowledgements
 
 https://github.com/jfisher-usgs/meditate
 
 https://github.com/jacobkap/meditations
 
+
 ## Contact
 
 Marcus Aurelius
+
+Seneca
+
+Swami Vivekananda
+
+Please note that the current whereabouts of the aforementioned people are unknown.
 
 
