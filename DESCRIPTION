@@ -1,0 +1,10 @@
+Package: meditator
+Type: Package
+Title: meditator: Miscellaneous tools for meditation
+Version: 1.0
+Imports: bookdown,
+          meditate,
+          
+          rmarkdown,
+          knitr,
+          tinytex
