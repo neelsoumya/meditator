@@ -34,6 +34,12 @@ R --no-save < meditator.R
 
 ```
 
+## Acknowledgements
+
+https://github.com/jfisher-usgs/meditate
+
+https://github.com/jacobkap/meditations
+
 ## Contact
 
 Marcus Aurelius
