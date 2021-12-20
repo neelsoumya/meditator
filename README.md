@@ -30,6 +30,10 @@ or
 
 ```r
 
+install.packages('devtools')
+library(devtools)
+devtools::install_github('neelsoumya/meditator')
+
 R --no-save < meditator.R
 
 ```
