@@ -14,6 +14,16 @@ devtools::install_github("jacobkap/meditations")
 devtools::install_github("jfisher-usgs/meditate")
 ```
 
+or
+
+```r
+
+install.packages('devtools')
+library(devtools)
+devtools::install_github('neelsoumya/meditator')
+
+```
+
 ## Usage
 
 ```r
@@ -28,15 +38,7 @@ meditate::Meditate()
 
 or
 
-```r
-
-install.packages('devtools')
-library(devtools)
-devtools::install_github('neelsoumya/meditator')
-
-```
-
-Then from the Terminal, type the following commands
+From the Terminal, type the following commands
 
 ```r
 R --no-save < meditator.R
