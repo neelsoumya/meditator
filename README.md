@@ -34,6 +34,11 @@ install.packages('devtools')
 library(devtools)
 devtools::install_github('neelsoumya/meditator')
 
+```
+
+Then from the Terminal, type the following commands
+
+```r
 R --no-save < meditator.R
 
 ```
