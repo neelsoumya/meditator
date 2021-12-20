@@ -64,6 +64,6 @@ Seneca
 
 Swami Vivekananda
 
-Please note that the current whereabouts of the aforementioned people are unknown.
+Current whereabouts of the aforementioned people unknown.
 
 
