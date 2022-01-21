@@ -7,6 +7,10 @@ Miscellaneous tools for meditation
 
 ## Installation
 
+Install R
+
+Open R and type the following commands:
+
 ```r
 install.packages(devtools)
 library(devtools)
@@ -25,6 +29,16 @@ devtools::install_github('neelsoumya/meditator')
 ```
 
 ## Usage
+
+Clone the repository. Go to your Terminal and type the following command:
+
+```r
+
+git clone https://github.com/neelsoumya/meditator
+
+```
+
+In R, type the following commands
 
 ```r
 library(meditations)
@@ -47,6 +61,7 @@ R --no-save < meditator.R
 
 or
 
+run the following shell script once you have cloned the repository
 
 ```r
 
@@ -71,6 +86,14 @@ Seneca
 
 Swami Vivekananda
 
+Lao Tse
+
 Current whereabouts of the aforementioned people unknown.
+
+Read Tao Te Ching by Lao Tse
+
+https://www.gutenberg.org/ebooks/216
+
+
 
 
