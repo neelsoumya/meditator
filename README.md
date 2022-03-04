@@ -77,6 +77,12 @@ https://github.com/jfisher-usgs/meditate
 
 https://github.com/jacobkap/meditations
 
+## Other resources
+
+https://www.software.ac.uk/blog/2022-03-02-how-mindfulness-and-inclusivity-help-software-sustainability
+
+https://www.software.ac.uk/blog/2021-12-14-mental-health-research-software-engineering
+
 
 ## Contact
 
