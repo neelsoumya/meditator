@@ -1,7 +1,7 @@
 Package: meditator
 Type: Package
 Title: meditator: Miscellaneous tools for meditation
-Version: 1.0
+Version: 1.1
 Imports: bookdown,
           meditate,
           meditations,
