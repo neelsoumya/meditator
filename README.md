@@ -100,7 +100,9 @@ Read Tao Te Ching by Lao Tse
 
 https://www.gutenberg.org/ebooks/216
 
-![Stillness](
+![Stillness](still_reflection.jpeg)
+
+![Stillness](still_forest.jpeg)
 
 
 
