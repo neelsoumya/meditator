@@ -102,7 +102,7 @@ https://www.gutenberg.org/ebooks/216
 
 ![Stillness](still_reflection.jpeg)
 
-![Stillness](still_forest.jpeg)
+<!--![Stillness](still_forest.jpeg)-->
 
 
 
