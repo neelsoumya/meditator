@@ -100,6 +100,10 @@ Read Tao Te Ching by Lao Tse
 
 https://www.gutenberg.org/ebooks/216
 
+The Ten Bulls 
+
+https://www.buddhistdoor.com/OldWeb/passissue/9710/sources/art9.htm
+
 Blessings to you, wherever and whoever you are.
 
 ![Stillness](still_reflection.jpeg)
