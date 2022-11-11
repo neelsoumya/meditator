@@ -71,11 +71,11 @@ chmod 755 meditator.sh
 
 ```
 
-## Acknowledgements
+## Shiny app
 
-https://github.com/jfisher-usgs/meditate
+A shiny app for this is available here:
 
-https://github.com/jacobkap/meditations
+https://sb2333medschl.shinyapps.io/meditator/
 
 ## Other resources
 
@@ -83,10 +83,18 @@ https://www.software.ac.uk/blog/2022-03-02-how-mindfulness-and-inclusivity-help-
 
 https://www.software.ac.uk/blog/2021-12-14-mental-health-research-software-engineering
 
-
 ## Smartphone app for meditation
 
 https://plumvillage.app/
+
+
+## Acknowledgements
+
+https://github.com/jfisher-usgs/meditate
+
+https://github.com/jacobkap/meditations
+
+
 
 ## Contact
 
