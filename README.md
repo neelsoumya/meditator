@@ -1,5 +1,8 @@
 # meditator
 
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+
+
 ## Introduction
 
 Miscellaneous tools for meditation and mental health. Optionally a very basic R package for meditation and mental health.
@@ -130,4 +133,5 @@ Blessings to you, wherever and whoever you are.
 <!--![Stillness](still_forest.jpeg)-->
 
 
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
