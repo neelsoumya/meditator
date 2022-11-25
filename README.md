@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Miscellaneous tools for meditation
+Miscellaneous tools for meditation and mental health. Optionally a very basic R package for meditation and mental health.
 
 
 ## Installation
