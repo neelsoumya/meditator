@@ -80,6 +80,16 @@ A shiny app for this is available here:
 
 https://sb2333medschl.shinyapps.io/meditator/
 
+
+## Animations
+
+https://ncase.me/neurons/
+
+https://ncase.me/mental-health/#toc_18
+
+https://ncase.me/anxiety/
+
+
 ## Other resources
 
 https://www.software.ac.uk/blog/2022-03-02-how-mindfulness-and-inclusivity-help-software-sustainability
