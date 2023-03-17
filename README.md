@@ -113,6 +113,8 @@ https://plumvillage.app/calm-and-ease-one-of-the-most-liked-guided-meditations-o
 
 https://web.archive.org/web/20230315092923/https://www.bu.edu/quantum/zen/readings/bonadgeNisargadatta.html
 
+https://web.archive.org/web/20230317100636/https://www.bu.edu/quantum/zen/readings/greatWayTarrant.html
+
 ## Acknowledgements
 
 https://github.com/jfisher-usgs/meditate
