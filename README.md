@@ -109,6 +109,9 @@ https://plumvillage.app/
 
 https://plumvillage.app/calm-and-ease-one-of-the-most-liked-guided-meditations-on-the-app/
 
+## Inspiration
+
+https://web.archive.org/web/20230315092923/https://www.bu.edu/quantum/zen/readings/bonadgeNisargadatta.html
 
 ## Acknowledgements
 
