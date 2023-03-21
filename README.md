@@ -103,6 +103,7 @@ https://ncase.me/mental-health/#toc_18
 https://ncase.me/anxiety/
 
 
+
 ## Smartphone app for meditation
 
 https://plumvillage.app/
@@ -114,6 +115,13 @@ https://plumvillage.app/calm-and-ease-one-of-the-most-liked-guided-meditations-o
 https://web.archive.org/web/20230315092923/https://www.bu.edu/quantum/zen/readings/bonadgeNisargadatta.html
 
 https://web.archive.org/web/20230317100636/https://www.bu.edu/quantum/zen/readings/greatWayTarrant.html
+
+## Meditation centers
+
+https://www.cambridgebuddhistcentre.com/
+
+https://www.cambridgeinnerspace.org/
+
 
 ## Acknowledgements
 
